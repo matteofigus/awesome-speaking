@@ -19,5 +19,3 @@ A collection of awesome resources about public speaking
 
 ## Books
 * [Propose, Prepare, Present](http://shop.oreilly.com/product/0636920027096.do) - Free Ebook by **Alistair Croll** (O'Reilly)
-# License
-MIT
