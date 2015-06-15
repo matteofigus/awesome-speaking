@@ -9,6 +9,7 @@ A collection of awesome resources about public speaking
 * [Lanyrd calls for participations](http://lanyrd.com/calls/) - another list of open CFP
 * [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - a collection of awesome talks about software
 * [nextspeaker.io](http://nextspeaker.io/) - web application for events schedule
+* [We Are All Awesome!](http://weareallaweso.me/) - a collection of interesting posts about speaking, preparing, motivation, etc
 
 ## Blog posts
 * [Speaker style bingo: 10 presentation anti-patterns](http://www.troyhunt.com/2015/06/speaker-style-bingo-10-presentation.html) - by **Troy Hunt**
