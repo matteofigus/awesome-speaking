@@ -1,4 +1,4 @@
-awsome-speaking
+awesome-speaking
 ===============
 
 A collection of awesome resources about public speaking
