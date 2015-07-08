@@ -23,5 +23,8 @@ A collection of awesome resources about public speaking. Please read the [contri
 ## Books
 * [Propose, Prepare, Present](http://shop.oreilly.com/product/0636920027096.do) - Free Ebook by **Alistair Croll** (O'Reilly)
 
+## Miscellaneous
+* [Awsome](https://github.com/sindresorhus/awesome) - A collection of awesome things curated by **Sindre Sorhus**
+
 # LICENSE
 [MIT](LICENSE.md)
