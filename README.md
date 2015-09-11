@@ -5,8 +5,7 @@ A collection of awesome resources about public speaking. Please read the [contri
 
 ## Websites
 * [Speaking.io](http://speaking.io) - Tips for preparing your talk and get ready to deliver it
-* [Call to Speakers](https://calltospeakers.com) - A list of open CFP
-* [Lanyrd Calls for Participations](http://lanyrd.com/calls/) - another list of open CFP
+* [Lanyrd Calls for Participations](http://lanyrd.com/calls/) - A list of open CFP
 * [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - a collection of awesome tech talks
 * [Nextspeaker.io](http://nextspeaker.io/) - web application for events schedule
 * [We Are All Awesome!](http://weareallaweso.me/) - a collection of interesting posts about speaking, preparing, motivation, etc
