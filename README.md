@@ -22,6 +22,7 @@ A collection of awesome resources about public speaking. Please read the [contri
 
 ## Books
 * [Propose, Prepare, Present](http://shop.oreilly.com/product/0636920027096.do) - Free Ebook by **Alistair Croll** (O'Reilly)
+* [Presentation Patterns](http://presentationpatterns.com/) - by **Neal Ford**, **Matthew McCullough**, and **Nate Schutta** (Addison-Wesley)
 
 ## Miscellaneous
 * [Awsome](https://github.com/sindresorhus/awesome) - A collection of awesome things curated by **Sindre Sorhus**
