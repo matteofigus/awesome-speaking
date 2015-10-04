@@ -26,6 +26,7 @@ A collection of awesome resources about public speaking. Please read the [contri
 
 ## Miscellaneous
 * [Awsome](https://github.com/sindresorhus/awesome) - A collection of awesome things curated by **Sindre Sorhus**
+* [Awesome Community](https://github.com/peterkokot/awesome-community) - A collection of awesome communities curated by **Peter Kokot**
 
 # LICENSE
 [MIT](LICENSE.md)
