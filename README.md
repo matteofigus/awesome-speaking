@@ -14,6 +14,7 @@ A collection of awesome resources about public speaking. Please read the [contri
 * [Speaker Style Bingo: 10 Presentation Anti-Patterns](http://www.troyhunt.com/2015/06/speaker-style-bingo-10-presentation.html) - by **Troy Hunt**
 * [Speaking Tips from a Grizzled Speaker](http://www.joshholmes.com/blog/2014/01/17/speaking-tips-grizzled-speaker/) - by **Josh Holmes**
 * [How to Write a Great Talk Proposal for a Tech Conference](http://2014.cssconf.eu/news/how-to-write-a-great-talk-proposal-for-a-tech) - by **Kristina Schneider**
+* [Some Thoughts On Doing Conference Sessions](http://derickbailey.com/2015/11/11/some-thoughts-on-doing-conference-sessions/) - by **Derick Bailey**
 
 ## Videos
 * [The Talk on Talks](http://devslovebacon.com/conferences/bacon-2014/talks/the-talk-on-talks) - by **Zach Holman** [36:26]
