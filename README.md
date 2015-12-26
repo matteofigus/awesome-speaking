@@ -5,10 +5,18 @@ A collection of awesome resources about public speaking. Please read the [contri
 
 ## Websites
 * [Speaking.io](http://speaking.io) - Tips for preparing your talk and get ready to deliver it
-* [Lanyrd Calls for Participations](http://lanyrd.com/calls/) - A list of open CFP
 * [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - a collection of awesome tech talks
 * [Nextspeaker.io](http://nextspeaker.io/) - web application for events schedule
 * [We Are All Awesome!](http://weareallaweso.me/) - a collection of interesting posts about speaking, preparing, motivation, etc
+
+## CFP
+
+*List of Call of Paper sites and services.*
+
+* [Call to Speakers](https://calltospeakers.com/) - A list of open applications for conference talks. Get notified of new opportunities via a weekly newsletter, Twitter account, or RSS feed.
+* [Callback Women](http://www.callbackwomen.com/) - Sharing CFPs via [Twitter](https://twitter.com/callbackwomen).
+* [Lanyrd Calls for Participations](http://lanyrd.com/calls/) - A list of open CFP.
+* [The CFP Report](https://thecfpreport.com/) - Get CFP reports via email.
 
 ## Blog Posts
 * [Speaker Style Bingo: 10 Presentation Anti-Patterns](http://www.troyhunt.com/2015/06/speaker-style-bingo-10-presentation.html) - by **Troy Hunt**
