@@ -8,6 +8,7 @@ A collection of awesome resources about public speaking. Please read the [contri
 * [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - a collection of awesome tech talks
 * [Nextspeaker.io](http://nextspeaker.io/) - web application for events schedule
 * [We Are All Awesome!](http://weareallaweso.me/) - a collection of interesting posts about speaking, preparing, motivation, etc
+* [HelpMeAbstract](http://helpmeabstract.com/) - Get feedback from veteran speakers before you submit your talk.
 
 ## CFP
 
