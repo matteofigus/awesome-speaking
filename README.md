@@ -18,6 +18,7 @@ A collection of awesome resources about public speaking. Please read the [contri
 * [Callback Women](http://www.callbackwomen.com/) - Sharing CFPs via [Twitter](https://twitter.com/callbackwomen).
 * [Lanyrd Calls for Participations](http://lanyrd.com/calls/) - A list of open CFP.
 * [The CFP Report](https://thecfpreport.com/) - Get CFP reports via email.
+* [WikiCFP](http://wikicfp.com/cfp/) aggregates academic science and technology CFPs
 
 ## Blog Posts
 * [Speaker Style Bingo: 10 Presentation Anti-Patterns](http://www.troyhunt.com/2015/06/speaker-style-bingo-10-presentation.html) - by **Troy Hunt**
