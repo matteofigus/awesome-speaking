@@ -14,7 +14,7 @@ A collection of awesome resources about public speaking. Please read the [contri
 
 *List of Call of Paper sites and services.*
 
-* [Call to Speakers](https://calltospeakers.com/) - A list of open applications for conference talks. Get notified of new opportunities via a weekly newsletter, Twitter account, or RSS feed.
+* [Call to Speakers](http://calltospeakers.com/) - A list of open applications for conference talks. Get notified of new opportunities via a weekly newsletter, Twitter account, or RSS feed.
 * [Callback Women](http://www.callbackwomen.com/) - Sharing CFPs via [Twitter](https://twitter.com/callbackwomen).
 * [Lanyrd Calls for Participations](http://lanyrd.com/calls/) - A list of open CFP.
 * [The CFP Report](https://thecfpreport.com/) - Get CFP reports via email.
@@ -23,7 +23,6 @@ A collection of awesome resources about public speaking. Please read the [contri
 ## Blog Posts
 * [Speaker Style Bingo: 10 Presentation Anti-Patterns](http://www.troyhunt.com/2015/06/speaker-style-bingo-10-presentation.html) - by **Troy Hunt**
 * [Speaking Tips from a Grizzled Speaker](http://www.joshholmes.com/blog/2014/01/17/speaking-tips-grizzled-speaker/) - by **Josh Holmes**
-* [How to Write a Great Talk Proposal for a Tech Conference](http://2014.cssconf.eu/news/how-to-write-a-great-talk-proposal-for-a-tech) - by **Kristina Schneider**
 * [Some Thoughts On Doing Conference Sessions](http://derickbailey.com/2015/11/11/some-thoughts-on-doing-conference-sessions/) - by **Derick Bailey**
 
 ## Videos
