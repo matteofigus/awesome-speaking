@@ -40,7 +40,7 @@ A collection of awesome resources about public speaking. Please read the [contri
 * [Awesome Community](https://github.com/peterkokot/awesome-community) - A collection of awesome communities curated by **Peter Kokot**
 
 ## Clubs/Organizations
-* [Toastmasters](https://www.toastmasters.org/Find-a-Club) - An international non-profit educational organizations that facilitates the creation and growth of clubs around the world. The goal of the clubs are to improve the leadership and public speaking skills of members.
+* [Toastmasters](https://www.toastmasters.org/Find-a-Club) - An international non-profit educational organizations that facilitates the creation and growth of clubs around the world. The goal of the clubs is to improve the leadership and public speaking skills of members.
 
 # LICENSE
 [MIT](LICENSE.md)
