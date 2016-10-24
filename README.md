@@ -23,6 +23,9 @@ A collection of awesome resources about public speaking. Please read the [contri
 * [The CFP Report](https://thecfpreport.com/) - Get CFP reports via email.
 * [WikiCFP](http://wikicfp.com/cfp/) aggregates academic science and technology CFPs
 
+## Clubs/Organizations
+* [Toastmasters](https://www.toastmasters.org/Find-a-Club) - An international non-profit educational organizations that facilitates the creation and growth of clubs around the world. The goal of the clubs is to improve the leadership and public speaking skills of members.
+
 ## Miscellaneous
 * [Awsome](https://github.com/sindresorhus/awesome) - A collection of awesome things curated by **Sindre Sorhus**
 * [Awesome Community](https://github.com/peterkokot/awesome-community) - A collection of awesome communities curated by **Peter Kokot**
@@ -38,9 +41,6 @@ A collection of awesome resources about public speaking. Please read the [contri
 * [Nextspeaker.io](http://nextspeaker.io/) - web application for events schedule
 * [We Are All Awesome!](http://weareallaweso.me/) - a collection of interesting posts about speaking, preparing, motivation, etc
 * [HelpMeAbstract](http://helpmeabstract.com/) - Get feedback from veteran speakers before you submit your talk.
-
-## Clubs/Organizations
-* [Toastmasters](https://www.toastmasters.org/Find-a-Club) - An international non-profit educational organizations that facilitates the creation and growth of clubs around the world. The goal of the clubs is to improve the leadership and public speaking skills of members.
 
 # LICENSE
 [MIT](LICENSE.md)
