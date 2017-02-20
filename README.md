@@ -12,6 +12,7 @@ A collection of awesome resources about public speaking. Please read the [contri
 * [Propose, Prepare, Present](http://shop.oreilly.com/product/0636920027096.do) - Free Ebook by **Alistair Croll** (O'Reilly)
 * [Presentation Patterns](http://presentationpatterns.com/) - by **Neal Ford**, **Matthew McCullough**, and **Nate Schutta** (Addison-Wesley)
 * [Presentation Zen Design](http://www.amazon.com/gp/product/0321668790) - by Garr Reynolds. How to design your presentation.
+* [TED Talks: The Official TED Guide to Public Speaking](http://www.amazon.com/d/0544634497/) - by **Chris Anderson** (Houghton Mifflin Harcourt). Start to finish guide to giving powerful talks.
 
 ## CFP
 
