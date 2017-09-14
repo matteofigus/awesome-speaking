@@ -35,6 +35,8 @@ A collection of awesome resources about public speaking. Please read the [contri
 * [The Talk on Talks](http://devslovebacon.com/conferences/bacon-2014/talks/the-talk-on-talks) - by **Zach Holman** [36:26]
 * [10 Quick Tips for More Effective Conference Submissions and Presentations](https://www.youtube.com/watch?v=fJz4JJIchaY) - by **Matthew McCullough** [30:07]
 * [How to Talk to Developers](https://www.youtube.com/watch?v=l9JXH7JPjR4) - by **Ben Orenstein** [47:37]
+* [How to Stay Calm When You Know You'll Be Stressed](https://www.ted.com/talks/daniel_levitin_how_to_stay_calm_when_you_know_you_ll_be_stressed) - by **Daniel Levitin** [12:20]
+* [The surprising secret to speaking with confidence](https://www.youtube.com/watch?v=a2MR5XbJtXU) - by **Caroline Goyder** [18:55]
 
 ## Websites
 * [Speaking.io](http://speaking.io) - Tips for preparing your talk and get ready to deliver it
