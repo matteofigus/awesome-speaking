@@ -40,6 +40,7 @@ A collection of awesome resources about public speaking. Please read the [contri
 * [Bringing Your Full Voice to Life](https://www.youtube.com/watch?v=Ze763kgrWGg) -  by **Barbara McAfee** [19:07]
 
 ## Websites
+* [ConferenceList](https://conferencelist.io/) - by Cezar Floroiu. A list of conferences around the world.
 * [Speaking.io](http://speaking.io) - Tips for preparing your talk and get ready to deliver it
 * [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - a collection of awesome tech talks
 * [We Are All Awesome!](http://weareallaweso.me/) - a collection of interesting posts about speaking, preparing, motivation, etc
