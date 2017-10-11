@@ -7,7 +7,6 @@ A collection of awesome resources about public speaking. Please read the [contri
 * [Block Your Talk](http://eleganthack.com/block-your-talk/) - by **Christina Wodtke**
 * [Presenting is Performance](http://eleganthack.com/presenting-is-performance/) - by **Christina Wodtke**
 * [Speaker Style Bingo: 10 Presentation Anti-Patterns](http://www.troyhunt.com/2015/06/speaker-style-bingo-10-presentation.html) - by **Troy Hunt**
-* [Speaking Tips from a Grizzled Speaker](http://www.joshholmes.com/blog/2014/01/17/speaking-tips-grizzled-speaker/) - by **Josh Holmes**
 * [Some Thoughts On Doing Conference Sessions](http://derickbailey.com/2015/11/11/some-thoughts-on-doing-conference-sessions/) - by **Derick Bailey**
 
 ## Books
