@@ -5,6 +5,7 @@ A collection of awesome resources about public speaking. Please read the [contri
 
 ## Blog Posts
 * [Block Your Talk](http://eleganthack.com/block-your-talk/) - by **Christina Wodtke**
+* [How To Get Speaking Engagements](https://www.samjarman.co.nz/blog/speaking-gigs) - by **Sam Jarman**
 * [Presenting is Performance](http://eleganthack.com/presenting-is-performance/) - by **Christina Wodtke**
 * [Speaker Style Bingo: 10 Presentation Anti-Patterns](http://www.troyhunt.com/2015/06/speaker-style-bingo-10-presentation.html) - by **Troy Hunt**
 * [Some Thoughts On Doing Conference Sessions](http://derickbailey.com/2015/11/11/some-thoughts-on-doing-conference-sessions/) - by **Derick Bailey**
