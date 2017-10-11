@@ -21,9 +21,7 @@ A collection of awesome resources about public speaking. Please read the [contri
 
 * [Call to Speakers](http://calltospeakers.com/) - A list of open applications for conference talks. Get notified of new opportunities via a weekly newsletter, Twitter account, or RSS feed.
 * [Callback Women](http://www.callbackwomen.com/) - Sharing CFPs via [Twitter](https://twitter.com/callbackwomen).
-* [Lanyrd Calls for Participations](http://lanyrd.com/calls/) - A list of open CFP.
 * [PaperCall](https://papercall.io/) - Place to manage your talks and submissions.
-* [WikiCFP](http://wikicfp.com/cfp/) aggregates academic science and technology CFPs
 
 ## Clubs/Organizations
 * [Toastmasters](https://www.toastmasters.org/Find-a-Club) - An international non-profit educational organizations that facilitates the creation and growth of clubs around the world. The goal of the clubs is to improve the leadership and public speaking skills of members.
