@@ -4,6 +4,7 @@ awesome-speaking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f3
 A collection of awesome resources about public speaking. Please read the [contributing guideline](contributing.md) if you wish to contribute.
 
 ## Blog Posts
+* [8 Classic Storytelling Techniques for Engaging Presentations](https://www.sparkol.com/en/Blog/8-Classic-storytelling-techniques-for-engaging-presentations) - by **Ffion Lindsay**
 * [Block Your Talk](http://eleganthack.com/block-your-talk/) - by **Christina Wodtke**
 * [How To Get Speaking Engagements](https://www.samjarman.co.nz/blog/speaking-gigs) - by **Sam Jarman**
 * [Nine Secrets to Powerful Public Speaking](http://www.gq-magazine.co.uk/article/public-speaking-tips) - by **Julian Treasure**
