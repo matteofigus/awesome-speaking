@@ -11,6 +11,7 @@ A collection of awesome resources about public speaking. Please read the [contri
 * [Presenting is Performance](http://eleganthack.com/presenting-is-performance/) - by **Christina Wodtke**
 * [Speaker Style Bingo: 10 Presentation Anti-Patterns](http://www.troyhunt.com/2015/06/speaker-style-bingo-10-presentation.html) - by **Troy Hunt**
 * [Some Thoughts On Doing Conference Sessions](http://derickbailey.com/2015/11/11/some-thoughts-on-doing-conference-sessions/) - by **Derick Bailey**
+* [How To Prepare And Write A Tech Conference Talk](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/) - by **Lena Reinhard**
 
 ## Books
 * [Propose, Prepare, Present](http://shop.oreilly.com/product/0636920027096.do) - Free Ebook by **Alistair Croll** (O'Reilly)
