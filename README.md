@@ -23,7 +23,6 @@ A collection of awesome resources about public speaking. Please read the [contri
 
 *List of Call of Paper sites and services.*
 
-* [Call to Speakers](http://calltospeakers.com/) - A list of open applications for conference talks. Get notified of new opportunities via a weekly newsletter, Twitter account, or RSS feed.
 * [Callback Women](http://www.callbackwomen.com/) - Sharing CFPs via [Twitter](https://twitter.com/callbackwomen).
 * [PaperCall](https://papercall.io/) - Place to manage your talks and submissions.
 * [IT CFP List](https://github.com/softwaremill/it-cfp-list) - List of IT conferences Call For Papers, changes are also published via Twitter [@ItCfpList](https://twitter.com/ItCfpList).
@@ -50,6 +49,7 @@ A collection of awesome resources about public speaking. Please read the [contri
 * [We Are All Awesome!](http://weareallaweso.me/) - a collection of interesting posts about speaking, preparing, motivation, etc
 * [HelpMeAbstract](http://helpmeabstract.com/) - Get feedback from veteran speakers before you submit your talk.
 * [Irongeek](https://www.irongeek.com/) - A collection of information security talks.
+* [Words to Time](https://wordstotime.com/) - Calculates how long a speech will take to present based on the number of words.
 
 # LICENSE
 [MIT](LICENSE.md)
