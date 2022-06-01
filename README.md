@@ -12,6 +12,8 @@ A collection of awesome resources about public speaking. Please read the [contri
 * [Speaker Style Bingo: 10 Presentation Anti-Patterns](http://www.troyhunt.com/2015/06/speaker-style-bingo-10-presentation.html) - by **Troy Hunt**
 * [Some Thoughts On Doing Conference Sessions](http://derickbailey.com/2015/11/11/some-thoughts-on-doing-conference-sessions/) - by **Derick Bailey**
 * [How To Prepare And Write A Tech Conference Talk](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/) - by **Lena Reinhard**
+* [Hosting virtual events for developers pt.1: Audience, topic, event title, & event description](https://www.codementor.io/blog/developer-virtual-events-guide1-dgzxdgnfmf)
+* [Hosting virtual events for developers pt.2: Structure, slide decks, and event flow](https://www.codementor.io/blog/developer-virtual-events-guide2-disafwxxav)
 
 ## Books
 * [Propose, Prepare, Present](http://shop.oreilly.com/product/0636920027096.do) - Free Ebook by **Alistair Croll** (O'Reilly)
@@ -27,6 +29,7 @@ A collection of awesome resources about public speaking. Please read the [contri
 * [PaperCall](https://papercall.io/) - Place to manage your talks and submissions.
 * [IT CFP List](https://github.com/softwaremill/it-cfp-list) - List of IT conferences Call For Papers, changes are also published via Twitter [@ItCfpList](https://twitter.com/ItCfpList).
 * [Tulu.la](https://tulu.la) - Curated list of tech events and open CFPs. Friendly community and speaker support champions. Community-driven.
+* [Codementor Events](https://www.codementor.io/events) - Curated listed of tech events and year-round developer-centered virtuao events.
 
 ## Clubs/Organizations
 * [Toastmasters](https://www.toastmasters.org/Find-a-Club) - An international non-profit educational organizations that facilitates the creation and growth of clubs around the world. The goal of the clubs is to improve the leadership and public speaking skills of members.
