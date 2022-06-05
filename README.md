@@ -10,7 +10,6 @@ A collection of awesome resources about public speaking. Please read the [contri
 * [Nine Secrets to Powerful Public Speaking](http://www.gq-magazine.co.uk/article/public-speaking-tips) - by **Julian Treasure**
 * [Presenting is Performance](http://eleganthack.com/presenting-is-performance/) - by **Christina Wodtke**
 * [Speaker Style Bingo: 10 Presentation Anti-Patterns](http://www.troyhunt.com/2015/06/speaker-style-bingo-10-presentation.html) - by **Troy Hunt**
-* [Some Thoughts On Doing Conference Sessions](http://derickbailey.com/2015/11/11/some-thoughts-on-doing-conference-sessions/) - by **Derick Bailey**
 * [How To Prepare And Write A Tech Conference Talk](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/) - by **Lena Reinhard**
 * [Hosting virtual events for developers pt.1: Audience, topic, event title, & event description](https://www.codementor.io/blog/developer-virtual-events-guide1-dgzxdgnfmf)
 * [Hosting virtual events for developers pt.2: Structure, slide decks, and event flow](https://www.codementor.io/blog/developer-virtual-events-guide2-disafwxxav)
