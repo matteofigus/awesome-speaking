@@ -47,6 +47,7 @@ A collection of awesome resources about public speaking. Please read the [contri
 * [Bringing Your Full Voice to Life](https://www.youtube.com/watch?v=Ze763kgrWGg) -  by **Barbara McAfee** [19:07]
 * [How I Overcame My Fear of Public Speaking](https://www.youtube.com/watch?v=80UVjkcxGmA) -  by **Danish Dhamani** [08:36]
 * [How to speak so that people want to listen](https://www.youtube.com/watch?v=eIho2S0ZahI) -  by **Julian Treasure** [09:58]
+* [KubeCon + CloudNativeCon 2020 Keynote: Hiding in the Dark](https://www.youtube.com/watch?v=zSdqHxvB0s4) - by **Dan Kohn** [07:51]
 
 ## Websites
 * [Speaking.io](http://speaking.io) - Tips for preparing your talk and get ready to deliver it
