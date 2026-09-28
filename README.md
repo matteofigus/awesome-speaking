@@ -14,6 +14,8 @@ A collection of awesome resources about public speaking. Please read the [contri
 * [Hosting virtual events for developers pt.1: Audience, topic, event title, & event description](https://www.codementor.io/blog/developer-virtual-events-guide1-dgzxdgnfmf)
 * [Hosting virtual events for developers pt.2: Structure, slide decks, and event flow](https://www.codementor.io/blog/developer-virtual-events-guide2-disafwxxav)
 
+* [Laser Pointer Not Showing in Screen Share? Zoom and Teams Checks](https://light-tracer.com/laser-pointer-screen-share-zoom-teams/) - by **Light Tracer**. A checklist for verifying pointer visibility in remote presentations, with links to official annotation guidance.
+
 ## Books
 * [Propose, Prepare, Present](http://shop.oreilly.com/product/0636920027096.do) - Free Ebook by **Alistair Croll** (O'Reilly)
 * [Presentation Patterns](http://presentationpatterns.com/) - by **Neal Ford**, **Matthew McCullough**, and **Nate Schutta** (Addison-Wesley)
