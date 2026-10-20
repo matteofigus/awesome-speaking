@@ -58,5 +58,7 @@ A collection of awesome resources about public speaking. Please read the [contri
 * [Words to Time](https://wordstotime.com/) - Calculates how long a speech will take to present based on the number of words.
 * [speaking.app](https://speaking.app/) - AI speech practice with feedback on pacing, filler words, structure, and clarity.
 
+* [Speech Timer by Round Rehearsal](https://roundrehearsal.com/tools/speech-timer?utm_source=github-awesome-speaking&utm_medium=listing&utm_campaign=free-tools-oct) - Free, browser-only speech length checker: run time at 130 and 150 words per minute, words to add or cut for a target length, and filler words.
+
 # LICENSE
 [MIT](LICENSE.md)
