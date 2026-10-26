@@ -57,6 +57,7 @@ A collection of awesome resources about public speaking. Please read the [contri
 * [Irongeek](https://www.irongeek.com/) - A collection of information security talks.
 * [Words to Time](https://wordstotime.com/) - Calculates how long a speech will take to present based on the number of words.
 * [speaking.app](https://speaking.app/) - AI speech practice with feedback on pacing, filler words, structure, and clarity.
+* [SlidePace](https://slidepace.com/) - Chrome extension that shows a countdown or stopwatch on top of Google Slides™ slideshows, with a colour warning before the end (free, with an optional paid Pro version).
 
 # LICENSE
 [MIT](LICENSE.md)
