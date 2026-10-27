@@ -57,6 +57,7 @@ A collection of awesome resources about public speaking. Please read the [contri
 * [Irongeek](https://www.irongeek.com/) - A collection of information security talks.
 * [Words to Time](https://wordstotime.com/) - Calculates how long a speech will take to present based on the number of words.
 * [speaking.app](https://speaking.app/) - AI speech practice with feedback on pacing, filler words, structure, and clarity.
+* [SliDesk](https://github.com/slidesk/slidesk) - Write your talk in Markdown, present it with a speaker view on your phone, export it to PDF or PowerPoint
 
 # LICENSE
 [MIT](LICENSE.md)
