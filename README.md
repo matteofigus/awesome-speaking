@@ -57,6 +57,7 @@ A collection of awesome resources about public speaking. Please read the [contri
 * [Irongeek](https://www.irongeek.com/) - A collection of information security talks.
 * [Words to Time](https://wordstotime.com/) - Calculates how long a speech will take to present based on the number of words.
 * [speaking.app](https://speaking.app/) - AI speech practice with feedback on pacing, filler words, structure, and clarity.
+* [Burncaps Speaking Speed Test](https://burncaps.app/speaking-speed-test?utm_source=awesomespeaking) - Read a short passage aloud, press Start and Stop, and see your words a minute beside the averages a published review gives. Uses no microphone and needs no sign-up. Can also measure a video or sound file of you talking.
 
 # LICENSE
 [MIT](LICENSE.md)
