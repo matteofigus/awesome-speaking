@@ -29,6 +29,7 @@ A collection of awesome resources about public speaking. Please read the [contri
 * [IT CFP List](https://github.com/softwaremill/it-cfp-list) - List of IT conferences Call For Papers, changes are also published via Twitter [@ItCfpList](https://twitter.com/ItCfpList).
 * [Tulu.la](https://tulu.la) - Curated list of tech events and open CFPs. Friendly community and speaker support champions. Community-driven.
 * [Codementor Events](https://www.codementor.io/events) - Curated listed of tech events and year-round developer-centered virtuao events.
+* [Conventions.io CFP Radar](https://conventions.io/call-for-papers) - Open calls for papers at tech conferences sorted by deadline, with calendar feeds (all topics or per topic) you can subscribe to.
 
 ## Clubs/Organizations
 * [Toastmasters](https://www.toastmasters.org/Find-a-Club) - An international non-profit educational organizations that facilitates the creation and growth of clubs around the world. The goal of the clubs is to improve the leadership and public speaking skills of members.
