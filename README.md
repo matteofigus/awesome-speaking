@@ -13,6 +13,7 @@ A collection of awesome resources about public speaking. Please read the [contri
 * [How To Prepare And Write A Tech Conference Talk](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/) - by **Lena Reinhard**
 * [Hosting virtual events for developers pt.1: Audience, topic, event title, & event description](https://www.codementor.io/blog/developer-virtual-events-guide1-dgzxdgnfmf)
 * [Hosting virtual events for developers pt.2: Structure, slide decks, and event flow](https://www.codementor.io/blog/developer-virtual-events-guide2-disafwxxav)
+* [If You’re Going on Stage, You Need a Speaker Bag](https://gantlaborde.medium.com/if-youre-going-on-stage-you-need-a-speaker-bag-90c7a398209d) - by Gant Laborde
 
 ## Books
 * [Propose, Prepare, Present](http://shop.oreilly.com/product/0636920027096.do) - Free Ebook by **Alistair Croll** (O'Reilly)
